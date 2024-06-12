@@ -1,4 +1,7 @@
 '''
+
+Esta linea es prueba de que se modifico el archivo original
+
 crear un sistema para una empresa de informatica.
 El sistema cuenta con el sgte menu
 1-agregar producto
